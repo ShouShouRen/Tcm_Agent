@@ -229,7 +229,7 @@ class UserHealthManager:
 user_manager = UserHealthManager()
 current_user_id = "default_user"  # 將在主程序中動態設置
 
-# === 工具函數 (Tool Functions) ===
+# === (Tool Functions) ===
 @tool
 def enhanced_tongue_analysis(input_str: str) -> str:
     """
